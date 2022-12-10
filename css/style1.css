@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(265deg,#976700d6 50%,#eec54a81 100%,#d2bc12 0%);
+    color: black;
+}
+.img1{
+    width: 80vw;
+    height: 60vh;
+    background-image: url(/images/Screenshot_20221210_144139.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    margin-left: 100px;
+    border-radius: 25px;
+}
+#linking{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+}
+
