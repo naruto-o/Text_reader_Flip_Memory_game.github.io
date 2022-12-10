@@ -12,9 +12,50 @@ body{
     margin-left: 100px;
     border-radius: 25px;
 }
+#b1{
+    margin-top: 3vh;
+    background-color: bisque;
+    color: brown;
+    border: 5px solid black;
+
+}
 #linking{
     font-size: xx-large;
     font-weight: bolder;
-    color: black;
+    color: brown;
 }
+.div1{
+    display: flex;
+}
+.left{
+    background-color: antiquewhite;
+    height: 80vh;
+    width: 70vw;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.right{
+    margin-left: 72vw;
+    font-size: large;
+    font-weight: bolder;
+    margin-bottom: 1vh;
+    height: 20vh;
+    width: 20vw;
+    background-color: aliceblue;
+}
+#searching{
+    margin-left: 2vw;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-bottom: 1vh;
+    width: 20vw;
+    background-color: aliceblue;    
+}
+#sbox{
+    margin-left: 0.6vw;
 
+}
+#b2{
+    text-decoration: none;
+
+}
